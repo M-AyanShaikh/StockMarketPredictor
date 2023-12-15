@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes historical data from Yahoo Finance to predict S&P 500 stock market prices using machine learning techniques. The goal is to develop a robust predictive model that can forecast future stock market prices. The project involves data cleaning, exploratory data analysis (EDA), and the implementation of a predictive model, leveraging the Random Forest Classifier from scikit-learn.
+This project utilizes historical data from Yahoo Finance to predict S&P 500 stock market prices using machine learning techniques. The goal is to develop a robust predictive model that can forecast future stock market prices. The project involves data cleaning, exploratory data analysis (EDA), and the implementation of a predictive model, leveraging the Random Forest Classifier from scikit-learn, as well as the Pandas dataframe.
 
 ## Getting Started
 
